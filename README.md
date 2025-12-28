@@ -7,6 +7,9 @@ The project was created while building **Gujarati and Telugu Unicode corpora**
 from scanned copies of the Indian Constitution, and later analyzing their
 phonetic and linguistic properties.
 
+[Inference Article](https://medium.com/@barodia21/gujarati-and-telugu-a-compare-and-contrast-c2b61bb3a013)
+[Kaggle Analysis Article](https://medium.com/@barodia21/gujarati-and-telugu-kaggle-analysis-319f91cce780)
+
 ---
 
 ## 🔧 Pipeline Overview
